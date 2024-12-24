@@ -24,7 +24,7 @@
 
 ## Passos para Formalização do Estágio
 
-```
+```mermaid
 stateDiagram-v2
     direction TB
     
