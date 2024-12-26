@@ -13,7 +13,7 @@ A [Resolução 01/2020](resolucoes/resolução_01_2020_CCC.pdf) é o instrumen
 
 ## Como solicitar um estágio?
 
-Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutotiral](./novvo_estagio.md).
+Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutorial](./novvo_estagio.md).
 
 ## Celebrar novos convênios entre empresas e a universidade
 
@@ -43,3 +43,6 @@ Para mais informações consulte o site da [PRE](https://pre.ufcg.edu.br/pre/est
 
 > **Não**. Como o estágio antes era uma disciplina, havia esse interesse por parte dos alunos, de forma a contabilizar 10 créditos optativos (de disciplinas) em seu histórico. Isso acontecia utilizando o interveniente financeiro do projeto (Fundação PaqTcPb) como um concedente do estágio. Hoje isso não faz mais sentido, visto que tanto as participações em projetos quanto os estágios são regulados como formas de aproveitar créditos de atividades complementares (não de disciplinas). Portanto, caso você pretenda participar de um projeto de P&D (ou tenha participado), utilize as documentações comprobatórias para aproveitar créditos em atividades complementares.
 
+**Onde posso encontrar o site anterior da coordenação da estágio?**
+
+> No [link](https://memoria.computacao.ufcg.edu.br/graduacao/estagios#h.20nwnawrkae7).
