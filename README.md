@@ -13,7 +13,7 @@ A [Resolução 01/2020](resolucoes/resolução_01_2020_CCC.pdf) é o instrumen
 
 ## Como solicitar um estágio?
 
-Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutorial](./novvo_estagio.md).
+Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutorial](./novo_estagio.md).
 
 ## Celebrar novos convênios entre empresas e a universidade
 

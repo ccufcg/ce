@@ -93,10 +93,6 @@ stateDiagram-v2
 ```
 
 
-
-1. Após colher as assinaturas, o aluno deve entregar as vias no setor competente para celebração do termo, o que marca o início formal do Estágio.
-
-
 ### Passo 1: Elaborar o Plano de Estágio
 
 - Verifique se a instituição dispõe de um supervisor técnico.
@@ -121,6 +117,8 @@ Acesse o sistema de Controle Acadêmico Online.
 Uma vez aprovado, o termo de compromisso será impresso em quatro vias que devem ser assinadas pela CPE ou pela Direção, pelo representante legal da concedente, pelo aluno e pelo professor orientador.
 
 - Abra um processo no sistema SEI! requisitando a assinatura do representante da UFCG (CPE/UFCG).
+
+Após colher as assinaturas, o aluno deve entregar as vias no setor competente para celebração do termo, o que marca o início formal do Estágio.
 
 ### Passo 4: Envio do Processo
 
