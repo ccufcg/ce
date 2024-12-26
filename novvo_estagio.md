@@ -92,6 +92,11 @@ stateDiagram-v2
 
 ```
 
+
+
+1. Após colher as assinaturas, o aluno deve entregar as vias no setor competente para celebração do termo, o que marca o início formal do Estágio.
+
+
 ### Passo 1: Elaborar o Plano de Estágio
 
 - Verifique se a instituição dispõe de um supervisor técnico.
@@ -99,12 +104,22 @@ stateDiagram-v2
 
 ### Passo 2: Registro do Plano de Estágio
 
-- Submeta o plano de estágio para aprovação do orientador via controle acadêmico.
-- Após a aprovação, a Coordenação Geral de Estágios emitirá o Termo de Estágio.
+Acesse o sistema de Controle Acadêmico Online.
+
+1. Encontre a aba Minhas Informações e selecione Estágios
+1. Preencha o plano de atividades de estágio.
+    1. Escolha uma concedente cadastrada digitando seu CNPJ no campo adequado.
+    1. Indique se o Estágio é Obrigatório ou não.
+    1. Preencha os campos necessários.
+    1. Indique o orientador de estágio.
+1. Após a aprovação do plano de atividades pelo orientador será feita a análise para a emissão do termo de compromisso.
+    1. A análise é realizada pela Coordenação de Estágios da Unidade Acadêmica de Sistemas de Computação.
+    1. Caso o plano de atividades seja rejeitado, você pode editar um novo plano.
 
 ### Passo 3: Assinatura do Termo de Estágio
 
-- O Termo de Estágio deve ser assinado por você, pelo representante da empresa, e pelo orientador.
+Uma vez aprovado, o termo de compromisso será impresso em quatro vias que devem ser assinadas pela CPE ou pela Direção, pelo representante legal da concedente, pelo aluno e pelo professor orientador.
+
 - Abra um processo no sistema SEI! requisitando a assinatura do representante da UFCG (CPE/UFCG).
 
 ### Passo 4: Envio do Processo
