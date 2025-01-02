@@ -100,8 +100,9 @@ stateDiagram-v2
 
 ### Passo 2: Registro do Plano de Estágio
 
-Acesse o sistema de Controle Acadêmico Online.
+Acesse o sistema de SIGAA e siga as instruções do [manual](https://portal.pre.ufcg.edu.br/phocadownload/SIGAA/Manual-SIGAA-modulo-estagio-discentes.pdf) da PRE.
 
+Resumo:
 1. Encontre a aba Minhas Informações e selecione Estágios
 1. Preencha o plano de atividades de estágio.
     1. Escolha uma concedente cadastrada digitando seu CNPJ no campo adequado.
@@ -111,6 +112,7 @@ Acesse o sistema de Controle Acadêmico Online.
 1. Após a aprovação do plano de atividades pelo orientador será feita a análise para a emissão do termo de compromisso.
     1. A análise é realizada pela Coordenação de Estágios da Unidade Acadêmica de Sistemas de Computação.
     1. Caso o plano de atividades seja rejeitado, você pode editar um novo plano.
+
 
 ### Passo 3: Assinatura do Termo de Estágio
 
