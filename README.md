@@ -8,7 +8,8 @@
 
 ## Resoluções
 
-A [Resolução 01/2020](resolucoes/resolução_01_2020_CCC.pdf) é o instrumento regulamenta o Estágio Supervisionado do Curso de Graduação em Ciência da Computação de acordo com a [Resolução 16/2022](http://www.sods.ufcg.edu.br/index.php/camara-ensino/resolucoes?download=974:resolucao-n-16-2022) da SODS/UFCG.
+A [Resolução 01/2020](resolucoes/resolução_01_2020_CCC.pdf) é o instrumento regulamenta o Estágio Supervisionado do Curso de Graduação em Ciência da Computação de acordo com a [Resolução 16/2022](http://www.sods.ufcg.edu.br/index.php/camara-ensino/resolucoes?download=974:resolucao-n-16-2022) da SODS/UFCG, que regulamenta
+[LEI Nº 11.788, de  25 de setembro de 2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm).
 
 
 ## Como solicitar um estágio?
