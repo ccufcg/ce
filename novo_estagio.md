@@ -61,7 +61,7 @@ stateDiagram-v2
         C1: Aluno
         C2: Supervisor
         C3: Orientador
-        C4: Coordenador <br/> Estágio
+        %% C4: Coordenador <br/> Estágio
         C5: Coordenador <br/> CPE/PRE
 
     }
