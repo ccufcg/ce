@@ -122,6 +122,15 @@ Uma vez aprovado, o termo de compromisso será impresso em quatro vias que devem
 
 Após colher as assinaturas, o aluno deve entregar as vias no setor competente para celebração do termo, o que marca o início formal do Estágio.
 
+#### Assinatura Digital
+
+Neste processo, o documento pode ser assinado digitalmente. E recomendado que o documento seja assinado através do :
+ - **Gov.br**, utilizando o sistema de autenticação e assinatura digital oferecido pelo governo, ou por meio de qualquer **chave ICP (Infraestrutura de Chaves Públicas)** válida pelo ICP-BR ou ICP-EDU.
+ 
+Ambas as opções garantem que a assinatura tenha validade jurídica, conforme exigido pela legislação brasileira.
+
+> **Importante:** O documento não deve ser *fechado* (ou "concluído"), pois é necessário que ele permaneça aberto para permitir a assinatura final pela Pró-Reitoria, garantindo a sequência correta do processo.
+
 ### Passo 4: Envio do Processo
 
 - Envie o número do processo por e-mail para o Coordenador de Estágio da UASC.
