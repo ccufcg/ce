@@ -116,11 +116,14 @@ Resumo:
 
 ### Passo 3: Assinatura do Termo de Estágio
 
-Uma vez aprovado, o termo de compromisso será impresso em quatro vias que devem ser assinadas pela CPE ou pela Direção, pelo representante legal da concedente, pelo aluno e pelo professor orientador.
+Uma vez aprovado, pela coordenação de estágio no SIGAA, o termo deve ser assinado pelas seguintes partes:
+- Aluno
+- Orientador de Estágio
+- Supervisor de Estágio
+- Coordenação de Programas e Estágios (CPE)/PRE/UFCG
 
-- Abra um processo no sistema SEI! requisitando a assinatura do representante da UFCG (CPE/UFCG).
+**Recomenda-se que, após coletar as assinaturas do Aluno, Orientador e Supervisor, seja aberto um processo no sistema SEI para solicitar a assinatura da CPE e a autorização/ativação do estágio. Ou sejá, realizar a coleta da assinatura da CPE no [Passo 4](#passo-4-envio-do-processo).** 
 
-Após colher as assinaturas, o aluno deve entregar as vias no setor competente para celebração do termo, o que marca o início formal do Estágio.
 
 #### Assinatura Digital
 
@@ -131,10 +134,14 @@ Ambas as opções garantem que a assinatura tenha validade jurídica, conforme e
 
 > **Importante:** O documento não deve ser *fechado* (ou "concluído"), pois é necessário que ele permaneça aberto para permitir a assinatura final pela Pró-Reitoria, garantindo a sequência correta do processo.
 
+
 ### Passo 4: Envio do Processo
 
+Utilizando o SEI:
 - Envie o número do processo por e-mail para o Coordenador de Estágio da UASC.
 - Certifique-se de atender a todos os pré-requisitos antes do encaminhamento.
+
+Para informações de como utilizar o SEI consulte o [STI da UFCG](https://www.sti.ufcg.edu.br/).
 
 ## Conclusão do Estágio
 
