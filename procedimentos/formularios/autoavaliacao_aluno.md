@@ -1,0 +1,38 @@
+## Formulário de Auto-Avaliação Aluno
+
+**Nome:**  
+**Matrícula:**  
+**E-mail:**  
+**Telefone Institucional:**  
+
+**Periodo do Estagio:** \_\_\_\_/\_\_\_\_/202\_\_ a \_\_\_\_/\_\_\_\_/202\_\_
+
+Após o prenchimento enviar este formulário, assinado, por e-mail para thiagonobrega@computacao.ufcg.edu.br .
+
+### Avaliação de Desempenho
+
+Atribua notas de 0 a 10 (inteiros), onde 0 é insuficiente e 10 é muito satisfatório.
+
+> 1. **Pontualidade:**  A capacidade de cumprir horários estabelecidos, chegando a tempo para compromissos e tarefas, demonstrando respeito pelo tempo dos outros.
+> 1. **Assiduidade:**  A frequência e regularidade com que a pessoa comparece ao trabalho ou atividades, mostrando comprometimento e responsabilidade.
+> 1. **Iniciativa:**  A habilidade de tomar decisões e agir proativamente, sem a necessidade de instruções detalhadas, buscando oportunidades para melhorar processos e resultados.
+> 1. **Relacionamento com a equipe:**  A capacidade de interagir de maneira eficaz e harmoniosa com colegas, promovendo um ambiente de trabalho colaborativo e positivo.
+> 1. **Capacidade de enfrentar e solucionar problemas:**  A habilidade de identificar, analisar e resolver problemas de maneira eficaz, usando pensamento crítico e criatividade.
+> 1. **Capacidade técnica:** O nível de conhecimento e habilidades específicas necessárias para desempenhar tarefas relacionadas ao trabalho, utilizando ferramentas e técnicas apropriadas.
+> 1. **Motivação:** O grau de entusiasmo, dedicação e energia que a pessoa demonstra em relação ao trabalho, buscando sempre dar o seu melhor.
+> 1. **Contribuição Geral:** A avaliação global do impacto positivo que a pessoa tem na organização, considerando todos os aspectos de desempenho e comportamento.
+
+
+| Critério                                     | Nota |
+|----------------------------------------------|------|
+| Pontualidade                                 |      |
+| Assiduidade                                  |      |
+| Iniciativa                                   |      |
+| Relacionamento com a equipe                  |      |
+| Capacidade de enfrentar e resolver problemas |      |
+| Capacidade técnica                           |      |
+| Motivação                                    |      |
+| Contribuição Geral                           |      |
+
+
+### Comentários sobre o seu desempenho no estágio
