@@ -7,7 +7,7 @@
 **Nome do Estagiário:**  
 **Periodo do Estagio:** \_\_\_\_/\_\_\_\_/202\_\_ a \_\_\_\_/\_\_\_\_/202\_\_
 
-Após o prenchimento enviar este formulário, assinado, por e-mail para thiagonobrega@computacao.ufcg.edu.br .
+<!-- Após o prenchimento enviar este formulário, assinado, por e-mail para thiagonobrega@computacao.ufcg.edu.br . -->
 
 ### Avaliação de Desempenho
 
