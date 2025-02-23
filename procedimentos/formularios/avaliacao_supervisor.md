@@ -25,14 +25,14 @@ Atribua notas de 0 a 10 (inteiros), onde 0 é insuficiente e 10 é muito satisfa
 
 | Critério                                     | Nota |
 |----------------------------------------------|------|
-| Pontualidade                                 |      |
-| Assiduidade                                  |      |
-| Iniciativa                                   |      |
-| Relacionamento com a equipe                  |      |
-| Capacidade de enfrentar e resolver problemas |      |
-| Capacidade técnica                           |      |
-| Motivação                                    |      |
-| Contribuição Geral                           |      |
+| Pontualidade                                 | \_\_\_\_     |
+| Assiduidade                                  | \_\_\_\_     |
+| Iniciativa                                   | \_\_\_\_     |
+| Relacionamento com a equipe                  | \_\_\_\_     |
+| Capacidade de enfrentar e resolver problemas | \_\_\_\_     |
+| Capacidade técnica                           | \_\_\_\_     |
+| Motivação                                    | \_\_\_\_     |
+| Contribuição Geral                           | \_\_\_\_     |
 
 
 ### Comparativo
