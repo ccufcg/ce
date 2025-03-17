@@ -8,8 +8,8 @@
 Para concluir o estágio, é necessário preencher e anexar os seguintes documentos no processo do SEI:  
 
 > 1. **Termo de compromisso de estágio** (TCE/UFCG) celebrado no incio do seu estágio
-> 1. [📄 Formulário de Autoavaliação](formularios/autoavaliacao_aluno.md): Deve ser preenchido pelo aluno.  
-> 2. [📄 Formulário de Avaliação do Supervisor](formularios/avaliacao_supervisor.md): Deve ser preenchido e assinado pelo supervisor técnico.  
+> 1. [📄 Formulário de Autoavaliação](formularios/autoavaliacao_aluno.pdf): Deve ser preenchido pelo aluno.  
+> 2. [📄 Formulário de Avaliação do Supervisor](formularios/avaliacao_supervisor.pdf): Deve ser preenchido e assinado pelo supervisor técnico.  
 > 3. **Relatório de Estágio**: Deve ser revisado e assinado pelo orientador acadêmico.  
 > 4. **Requerimento de Peticionamento Eletrônico**: Necessário para protocolar o processo no SEI.  
 
