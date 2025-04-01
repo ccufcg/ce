@@ -61,8 +61,8 @@ stateDiagram-v2
         C1: Aluno
         C2: Supervisor
         C3: Orientador
-        %% C4: Coordenador <br/> Estágio
-        C5: Coordenador <br/> CPE/PRE
+        C4: Coordenador <br/> Estágio
+        %% C5: Coordenador <br/> CPE/PRE
 
     }
 
@@ -71,7 +71,8 @@ stateDiagram-v2
         direction TB
         D1: Abra um Processo
         D2: Anexe o Termo Assinado
-        D3: Encaminhe o Processo <br/> CPE
+        D3: Encaminhe o Processo <br/> CE
+        D4: Envie um e-mail avisando <br/> a CE que o processo foi aberto
 
         D1 --> D2
         D2 --> D3
@@ -120,7 +121,8 @@ Uma vez aprovado, pela coordenação de estágio no SIGAA, o termo deve ser assi
 - Aluno
 - Orientador de Estágio
 - Supervisor de Estágio
-- Coordenação de Programas e Estágios (CPE)/PRE/UFCG
+- Coordenador de Estágio da USAC
+- Coordenação de Programas e Estágios (CPE)/PRE/UFCG (Assinatura coletada apenas na etapa do SEI)
 
 **Recomenda-se que, após coletar as assinaturas do Aluno, Orientador e Supervisor, seja aberto um processo no sistema SEI para solicitar a assinatura da CPE e a autorização/ativação do estágio. Ou sejá, realizar a coleta da assinatura da CPE no [Passo 4](#passo-4-envio-do-processo).** 
 
