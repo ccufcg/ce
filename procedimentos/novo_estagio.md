@@ -61,8 +61,9 @@ stateDiagram-v2
         C1: Aluno
         C2: Supervisor
         C3: Orientador
-        C4: Coordenador <br/> Estágio
+        %% C4: Coordenador <br/> Estágio
         %% C5: Coordenador <br/> CPE/PRE
+        C6: Concedente
 
     }
 
@@ -121,20 +122,16 @@ Uma vez aprovado, pela coordenação de estágio no SIGAA, o termo deve ser assi
 - Aluno
 - Orientador de Estágio
 - Supervisor de Estágio
-- Coordenador de Estágio da USAC
+<!-- - Coordenador de Estágio da USAC -->
 - Coordenação de Programas e Estágios (CPE)/PRE/UFCG (Assinatura coletada apenas na etapa do SEI)
 
 **Recomenda-se que, após coletar as assinaturas do Aluno, Orientador e Supervisor, seja aberto um processo no sistema SEI para solicitar a assinatura da CPE e a autorização/ativação do estágio. Ou sejá, realizar a coleta da assinatura da CPE no [Passo 4](#passo-4-envio-do-processo).** 
 
 
-#### Assinatura Digital
+> **⚠️ ATENÇÃO:** 
+> - Leia as intruções das assinaturas valídas e dos procedimentos nesse [link](assinaturas.md)
+> - O mesmo documento deve ser assinados por todos os integrantes
 
-Neste processo, o documento pode ser assinado digitalmente. E recomendado que o documento seja assinado através do :
- - **Gov.br**, utilizando o sistema de autenticação e assinatura digital oferecido pelo governo, ou por meio de qualquer **chave ICP (Infraestrutura de Chaves Públicas)** válida pelo ICP-BR ou ICP-EDU.
- 
-Ambas as opções garantem que a assinatura tenha validade jurídica, conforme exigido pela legislação brasileira.
-
-> **Importante:** O documento não deve ser *fechado* (ou "concluído"), pois é necessário que ele permaneça aberto para permitir a assinatura final pela Pró-Reitoria, garantindo a sequência correta do processo.
 
 
 ### Passo 4: Envio do Processo
