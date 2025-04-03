@@ -129,7 +129,7 @@ Uma vez aprovado, pela coordenação de estágio no SIGAA, o termo deve ser assi
 
 
 > **⚠️ ATENÇÃO:** 
-> - Leia as intruções das assinaturas valídas e dos procedimentos nesse [link](assinaturas.md)
+> - Leia as intruções das assinaturas válidas e dos procedimentos nesse [link](assinaturas.md)
 > - O mesmo documento deve ser assinados por todos os integrantes
 
 
