@@ -1,12 +1,12 @@
 # Coordenação de Estágios - UASC
 
-- [Coordenação de Estágios - UASC](#coordenação-de-estágios---uasc)
-  - [Resoluções](#resoluções)
-  - [Contato e Prazos](#contato-e-prazos)
-    - [Prazos de Resposta](#prazos-de-resposta)
-  - [Como solicitar um estágio?](#como-solicitar-um-estágio)
-  - [Celebrar novos convênios entre empresas e a universidade](#celebrar-novos-convênios-entre-empresas-e-a-universidade)
-  - [Perguntas Frequentes](#perguntas-frequentes)
+- [Resoluções](#resoluções)
+- [Contato e Prazos](#contato-e-prazos)
+  - [Prazos de Resposta](#prazos-de-resposta)
+- **Procedimentos Frequentes**
+  - [Como solicitar um estágio?](./procedimentos/novo_estagio.md)
+  - [Celebrar novos convênios entre empresas e a universidade](./procedimentos/novo_convenio.md)
+- [Perguntas Frequentes](#perguntas-frequentes)
 
 
 ## Resoluções
@@ -29,19 +29,18 @@ Para ajudar e garantir que o processo de estágio ocorra de forma tranquila a co
 > Consulte as [Perguntas Frequentes](#perguntas-frequentes).  
 
 
-## Como solicitar um estágio?
-
-Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutorial](./procedimentos/novo_estagio.md).
-
-## Celebrar novos convênios entre empresas e a universidade
-
-Se a empresa/instituição não for conveniada, o convênio pode ser solicitado. O aluno pode intermediar este processo, bastando solicitar que a empresa entre em contato por email com o coordenador de estágios da UASC para que este possa passar as instruções para celebração do convênio.
-
-Para mais informações consulte o site da [PRE](https://pre.ufcg.edu.br/pre/estagios-e-convenios?showall=&start=2) para a lista completa de documentos.
-
 
 ## Perguntas Frequentes
 
+**Como solicitar um estágio?**
+
+> Após ter o aceite de uma instituição/empresa para realizar estágio leia atentamente o [tutorial](./procedimentos/novo_estagio.md).
+
+**Celebrar novos convênios entre empresas e a universidade**
+
+> Se a empresa/instituição não for conveniada, o convênio pode ser solicitado. O aluno pode intermediar este processo, bastando solicitar que a empresa entre em contato por email com o coordenador de estágios da UASC para que este possa passar as instruções para celebração do convênio.
+>
+> Para mais informações consulte o site da [PRE](https://pre.ufcg.edu.br/pre/estagios-e-convenios?showall=&start=2) para a lista completa de documentos.
 
 **Quais os benefícios do estágio?**
 
