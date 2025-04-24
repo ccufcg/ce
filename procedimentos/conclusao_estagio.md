@@ -1,7 +1,28 @@
 # Passos para Conclusão do Estágio e Envio no SEI  
 
+1. [Estágios criados no SIGAA (2025 em diantes)](#procedimentos-para-estágios-gerenciados-pelo-sigaa)
 1. [Estágios criados no Scao (até 2024)](#estágios-criados-no-scao)
-1. [Estágios criados no SIGAA (2025 em diantes)](#estágios-criados-gerênciados-pelo-sigaa-2025)
+
+
+## Procedimentos para Estágios Gerenciados pelo SIGAA
+
+Para concluir seu estágio pelo **SIGAA**, será necessário preencher um formulário diretamente no sistema. Este formulário incluirá:
+
+1. **Perguntas sobre o estágio** – Você descreverá aspectos importantes sobre suas atividades, responsabilidades e aprendizado.
+2. **Autoavaliação** – Você atribuirá notas a diferentes competências, como pontualidade, iniciativa e relacionamento com a equipe.
+3. 📌 **Relatório de Estágio** – Documento que deve ser revisado e assinado digitalmente pelo seu orientador acadêmico antes de ser anexado.
+    - Lembrando que não ha modelo para o relátorio de estágio
+    - 🔏📝 Este documento deve ser assinado, para mais informações de como assinar veja o [link](assinaturas.md)
+4. 📌 **Avaliação do Supervisor** – Formulário que deve ser preenchido e assinado pelo seu supervisor técnico e anexado ao processo.
+    - [📄 Formulário de Avaliação do Supervisor](formularios/avaliacao_supervisor.pdf)
+    - 🔏📝 Este documento deve ser assinado, para mais informações de como assinar veja o [link](assinaturas.md)
+
+
+### ✅ Antes de preencher:
+Certifique-se de ter todos os documentos necessários em mãos, incluindo o **termo de compromisso**, **relatório revisado e assinado**, e **avaliação do supervisor**. 
+
+Após a conclusão, envie tudo pelo **SIGAA** para que seu estágio seja validado e o certificado de conclusão seja emitido.
+
 
 ## Estágios Criados no SCAO
 
@@ -47,6 +68,3 @@ Para concluir o estágio, é necessário preencher e anexar os seguintes documen
 - Após o envio, a coordenação de estágio encaminhará para avaliação pelo orientador e avaliador externo da UASC.  
 - Acompanhar o processo até a emissão do **Certificado de Conclusão de Estágio**.  
 
-## Estágios Criados Gerênciados pelo SIGAA (2025)
-
-Breve mais informações
