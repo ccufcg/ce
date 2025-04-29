@@ -6,6 +6,7 @@
 - **Procedimentos Frequentes**
   - [Como solicitar um estágio?](./procedimentos/novo_estagio.md)
   - [Celebrar novos convênios entre empresas e a universidade](./procedimentos/novo_convenio.md)
+  - [Como concluir o estágio (entrega de relatórios)?](./procedimentos/conclusao_estagio.md)
 - [Perguntas Frequentes](#perguntas-frequentes)
 
 
