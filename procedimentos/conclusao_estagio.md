@@ -51,10 +51,12 @@ Para concluir o estágio, é necessário preencher e anexar os seguintes documen
 - Salvar o relatório assinado em formato **PDF**.  
 
 ### 4. Criar o Processo no SEI (sei.ufcg.edu.br)  
-- Criar um processo do tipo **"Graduação: Programas de Estágio Não Obrigatório"**.  
+<!-- - Criar um processo do tipo **"Graduação: Programas de Estágio Não Obrigatório"**.  
 - Especificação: **"Avaliação e emissão de certidão de conclusão de estágio"**.  
 - Nível de acesso: **Restrito (informações pessoais)**.  
-- Interessado: **Seu nome completo**.  
+- Interessado: **Seu nome completo**.   -->
+
+> 📝 **Atenção** você deve anexar os documentos no mesmo processo que você solicitou o estágio.
 
 #### 4.1. Anexar Documentos  
 - **Graduação: Requerimento de Peticionamento Eletrônico**.  
