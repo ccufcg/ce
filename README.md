@@ -3,11 +3,12 @@
 - [Resoluções](#resoluções)
 - [Contato e Prazos](#contato-e-prazos)
   - [Prazos de Resposta](#prazos-de-resposta)
-- 📌 **Procedimentos Frequentes**
+- 📌 **Procedimentos Frequentes Aluno**
   - [Como solicitar um estágio?](./procedimentos/novo_estagio.md)
   - [Renovação de estágio](./procedimentos/renovacao.md)
-  - [Celebrar novos convênios entre empresas e a universidade](./procedimentos/novo_convenio.md)
   - [Como concluir o estágio (entrega de relatórios)?](./procedimentos/conclusao_estagio.md)
+- 📌 **Procedimentos Frequentes Empresas**
+  - [Celebrar novos convênios entre empresas e a universidade](./procedimentos/novo_convenio.md)
 - [Perguntas Frequentes](#perguntas-frequentes)
 
 
